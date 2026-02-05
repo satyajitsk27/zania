@@ -1,0 +1,32 @@
+{
+  "company": "TechCorp Solutions",
+  "founded": "2020",
+  "employees": 150,
+  "headquarters": "San Francisco, California",
+  "services": [
+    "Cloud Computing",
+    "AI/ML Solutions",
+    "Data Analytics",
+    "Cybersecurity"
+  ],
+  "mission": "To empower businesses through innovative technology solutions and exceptional customer service.",
+  "revenue_2023": "$25 million",
+  "ceo": "Jane Smith",
+  "major_clients": [
+    "Global Finance Corp",
+    "MediHealth Systems",
+    "EduTech International"
+  ],
+  "awards": [
+    {
+      "year": 2022,
+      "award": "Best Cloud Solutions Provider",
+      "organization": "Tech Innovation Awards"
+    },
+    {
+      "year": 2023,
+      "award": "Top 50 Startups",
+      "organization": "Business Weekly"
+    }
+  ]
+}
