@@ -1,0 +1,33 @@
+{
+  "product_name": "CloudPro Platform",
+  "version": "2.5.0",
+  "release_date": "2024-01-15",
+  "system_requirements": {
+    "minimum_ram": "8GB",
+    "recommended_ram": "16GB",
+    "storage": "50GB",
+    "operating_systems": ["Windows 10+", "macOS 12+", "Linux Ubuntu 20.04+"]
+  },
+  "features": {
+    "multi_cloud_support": "AWS, Azure, Google Cloud",
+    "auto_scaling": true,
+    "load_balancing": true,
+    "monitoring": "Real-time metrics and alerts",
+    "backup": "Automated daily backups with 30-day retention"
+  },
+  "api": {
+    "rest_api": "https://api.cloudpro.com/v2",
+    "authentication": "OAuth 2.0, API Keys",
+    "rate_limit": "1000 requests per hour"
+  },
+  "pricing": {
+    "starter": "$99/month - Up to 10 instances",
+    "professional": "$299/month - Up to 50 instances",
+    "enterprise": "Custom pricing - Unlimited instances"
+  },
+  "support": {
+    "email": "support@techcorp.com",
+    "phone": "1-800-TECHCORP",
+    "hours": "24/7 for Enterprise, Business hours for others"
+  }
+}
